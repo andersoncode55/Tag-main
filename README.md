@@ -92,6 +92,21 @@ Lembre-se de que esses são apenas exemplos de requisitos não-funcionais que po
 
 
 
+
+
+
+
+
+## 🔧 Tecnologias utilizadas
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+
+
+
+
 ## ✅ Conclusão
 A tag main é um elemento HTML usado para identificar e envolver o conteúdo principal de uma página ou seção de um documento. Seu uso adequado traz benefícios em termos de semântica, acessibilidade, SEO e estilização. Ao utilizar a tag main, você fornece uma estrutura clara e organizada para o conteúdo principal do seu site ou aplicação web.
 
